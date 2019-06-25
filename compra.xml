@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compra>
+	<id>15</id>
+	<produtos>
+		<produto codigo="1587">
+			<nome>geladeira</nome>
+			<preco>1000.0</preco>
+			<descricao>geladeira duas portas</descricao>
+		</produto>
+		<produto codigo="1588">
+			<nome>ferro de passar</nome>
+			<preco>100.0</preco>
+			<descricao>ferro com vaporizador</descricao>
+		</produto>
+	</produtos>
+</compra>
