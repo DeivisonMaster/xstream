@@ -22,7 +22,7 @@ public class CategoriaTest {
 		
 		
 		XStream xstream = new XStream();
-		xstream.setMode(XStream.NO_REFERENCES);
+		xstream.setMode(XStream.NO_REFERENCES);   // cria novas referencias para os objetos
 		xstream.alias("categoria", Categoria.class);
 		
 		String xmlGerado = xstream.toXML(esporte);

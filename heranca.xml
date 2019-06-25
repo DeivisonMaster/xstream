@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compra>
+	<id>15</id>
+	<livro codigo="1589">
+		<nome>O pássaro raro</nome>
+		<preco>100.0</preco>
+		<descricao>dez histórias sobre a existência</descricao>
+	</livro>
+	<musica codigo="1590">
+		<nome>Meu Passeio</nome>
+		<preco>100.0</preco>
+		<descricao>música livre</descricao>
+	</musica>
+</compra>
